@@ -1,0 +1,15 @@
+.suggestions {
+  z-index: 100;
+  position: fixed;
+  width: 50%;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 8px;
+  list-style: none;
+  max-height: 250px;
+  overflow: scroll;
+  text-align: left;
+}
+
+.suggestions li {
+}

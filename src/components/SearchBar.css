@@ -1,0 +1,32 @@
+.search-bar {
+  display: inline-block;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.form-control > div {
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.form-control input {
+  display: block;
+}
+
+.form-control input {
+  width: 100%;
+  font: inherit;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  padding: 0.15rem 0.25rem;
+}
+
+.form-control input:focus {
+  outline: none;
+  background: #ebebeb;
+  border-color: #510077;
+}
+.suggestion {
+  text-align: left;
+  width: 80%;
+}

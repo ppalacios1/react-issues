@@ -1,0 +1,20 @@
+.issue {
+  cursor: pointer;
+  text-decoration: none;
+}
+.issue__content {
+  text-align: left;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.26);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  padding: 1rem;
+}
+.issue__title {
+  margin: 0;
+  font-weight: bold;
+}
